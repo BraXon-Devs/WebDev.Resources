@@ -34,6 +34,7 @@ Here are some web development resources that I've compiled along the way. This l
 - [RapidAPI - Free SDK Documentation](https://rapidapi.com/search) - Searchable directory of APIs.
 - [ICONScout](https://iconscout.com/) - Curated SVGs, Vector Icons, Illustrations, 3D Graphics, and Lottie Animations.
 - [Fontawesome](https://fontawesome.com) - Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
+- [Clipboard.js](https://clipboardjs.com/) - A modern approach to copy text to clipboard
 
 
 ## Front-End
