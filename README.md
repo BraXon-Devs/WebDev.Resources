@@ -36,6 +36,7 @@ Here are some web development resources that I've compiled along the way. This l
 - [Fontawesome](https://fontawesome.com) - Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 - [Clipboard.js](https://clipboardjs.com/) - A modern approach to copy text to clipboard
 - [BEfonts](https://befonts.com/) -  High quality fonts & design resources for free
+- [Google Fonts | Icons](https://fonts.google.com/) High quality fonts that are free and guess what, they have icons too. Free & Customizable!
 
 
 ## Front-End
