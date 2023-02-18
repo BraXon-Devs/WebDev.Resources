@@ -62,6 +62,7 @@ Here are some web development resources that I've compiled along the way. This l
 - [BetaList](https://betalist.com/) - A platform for discovering and promoting upcoming startups and their products.
 - [AngelList](https://angel.co/) - A platform for startups to connect with investors and job seekers to find employment opportunities in the startup world.
 - [Lofi Girl](https://lofigirl.com/) - Generate your playlist and background.
+- [Volta](https://volta.net/) - Work in real-time with your team on open-source and private repositories, all in one place.
 
 
 
