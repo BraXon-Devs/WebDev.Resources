@@ -15,7 +15,7 @@ Here are some web development resources that I've compiled along the way. This l
 - [Supabase](https://supabase.com/) - An open-source Firebase alternative.
 - [Vercel](https://vercel.com/) - An easy deployment platform.
 - [Firebase](https://firebase.com/) - Firebase is an app development platform that helps you build and grow apps.
-- 
+- [UXWing](https://uxwing.com/) - Another good place to find awesome icons just like @Fontawesome. IF you dont mind the ads.
 
 ## Design Tools
 
